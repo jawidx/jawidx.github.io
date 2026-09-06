@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jawidx.github.io/dododo/sitemap.xml
